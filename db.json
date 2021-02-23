@@ -1,0 +1,34 @@
+{
+  "artistas": [
+    {
+      "id": 1,
+      "artista": "Soda Steroe",
+      "pais": "Argentina",
+      "periodo": "1982-1997"
+    },
+    {
+      "id": 2,
+      "artista": "Heroes del silecio",
+      "pais": "España",
+      "periodo": "1984-1996"
+    },
+    {
+      "id": 5,
+      "artista": "Rata Blanca",
+      "pais": "Argentina",
+      "periodo": "1990-2000"
+    },
+    {
+      "id": 6,
+      "artista": "Octavia",
+      "pais": "Bolivia",
+      "periodo": "1995"
+    },
+    {
+      "id": 7,
+      "artista": "Mago de oz",
+      "pais": "España",
+      "periodo": "1998"
+    }
+  ]
+}
